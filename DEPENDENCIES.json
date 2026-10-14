@@ -1,0 +1,104 @@
+{
+  "python": "3.10.11",
+  "runtime": [
+    {
+      "name": "PySide6-Essentials",
+      "version": "6.9.0",
+      "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+      "license_files": [
+        "LicenseRef-Qt-Commercial.txt"
+      ]
+    },
+    {
+      "name": "shiboken6",
+      "version": "6.9.0",
+      "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+      "license_files": [
+        "LicenseRef-Qt-Commercial.txt"
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.34.2",
+      "license": "Apache-2.0",
+      "license_files": [
+        "LICENSE",
+        "NOTICE"
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "2.8.0",
+      "license": "MIT",
+      "license_files": [
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "name": "idna",
+      "version": "3.20",
+      "license": "BSD-3-Clause",
+      "license_files": [
+        "LICENSE.md"
+      ]
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.5.2",
+      "license": "MIT",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "name": "certifi",
+      "version": "2026.7.22",
+      "license": "MPL-2.0",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "name": "pycryptodome",
+      "version": "3.22.0",
+      "license": "BSD, Public Domain",
+      "license_files": [
+        "LICENSE.rst"
+      ]
+    }
+  ],
+  "build_only": [
+    {
+      "name": "PyInstaller",
+      "version": "6.22.3",
+      "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+      "license_files": [
+        "COPYING.txt"
+      ]
+    },
+    {
+      "name": "pyinstaller-hooks-contrib",
+      "version": "2026.8",
+      "license": "",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "name": "Pillow",
+      "version": "12.3.0",
+      "license": "MIT-CMU",
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "name": "setuptools",
+      "version": "65.5.0",
+      "license": "",
+      "license_files": [
+        "LICENSE"
+      ]
+    }
+  ]
+}

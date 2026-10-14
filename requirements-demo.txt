@@ -1,0 +1,2 @@
+-r requirements-build.txt
+# Also requires ffmpeg and ffprobe executables for MP4/GIF generation.

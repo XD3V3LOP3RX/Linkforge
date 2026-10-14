@@ -1,0 +1,26 @@
+# Local Python environments and caches
+.build-env/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Build and portable release artifacts
+build/
+dist/
+*.exe
+*.zip
+*.spec
+*.log
+.release-env/
+local-data/
+exports/
+
+# Runtime self-test reports
+*selftest*.json
+*self-test*.json
+*self_test*.json
+
+# Generated DLC containers (keep the benign checked-in example)
+*.dlc
+!examples/demo.dlc
