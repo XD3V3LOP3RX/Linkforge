@@ -1,4 +1,0 @@
-# LinkForge demo — placeholder URLs, not actual hosted downloads.
-Project assets.zip | https://example.com/files/project%20assets.zip
-Release notes.pdf | https://example.org/docs/release%20notes.pdf
-Sample update v2.zip | https://example.net/files/update%20%5Bv2%5D.zip
